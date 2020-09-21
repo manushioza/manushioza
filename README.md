@@ -1,4 +1,4 @@
-<hello world/> 👋
+Hi there! 👋
 
 Nice to virtually meet you 💻! My name is Manushi (she/her). I am currently in my 3rd year of Computer Engineering @ Ryerson University 🏫. In my spare time, I like to read books 📚 and create digital art 🎨.
 
